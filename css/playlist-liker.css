@@ -1,0 +1,11 @@
+body {
+	font-family:Helvetica;
+	font-size:14px;
+}
+
+#drop {
+	width:400px;
+	height:20px;
+	border:1px dotted gray;
+	padding:5px;
+}

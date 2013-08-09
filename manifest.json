@@ -1,0 +1,25 @@
+{
+	"AppDescription": {
+		"en": "Spotify Playlist Liker"
+	},
+	"AppIcon": {
+		"0x0": ""
+	},
+	"AppName": {
+		"en": "Spotify Playlist Liker"
+	},
+	"BundleIdentifier": "playlist-liker",
+	"BundleType": "Application",
+	"BundleVersion": "0.1",
+	"Dependencies": {
+	  "api": "0.2.3"
+    },
+	"RequiredInterface": 1,
+	"RequiredPermissions": [
+
+	],
+	"SupportedLanguages": [
+		"en"
+	],
+	"VendorIdentifier": "co.mager"
+}
